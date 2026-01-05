@@ -1,0 +1,18 @@
+
+{
+  "name": "EU MDR AR Tutor",
+  "short_name": "MDR AR",
+  "description": "Learn EU Medical Device Regulation basics in Augmented Reality.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063176.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

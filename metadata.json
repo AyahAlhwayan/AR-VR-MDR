@@ -1,0 +1,7 @@
+{
+  "name": "EU MDR AR Tutor",
+  "description": "An interactive Augmented Reality education app for learning the basics of EU Medical Device Regulation (MDR 2017/745) through 3D panels and objects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
